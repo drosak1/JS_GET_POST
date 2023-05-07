@@ -1,3 +1,4 @@
+![smile](https://user-images.githubusercontent.com/34897543/236680325-ae397f15-fe5d-4513-af0a-9a02f3f12a00.jpg)
 # JS_GET_POST
 get and post using java script with www.dlb.one server
 
