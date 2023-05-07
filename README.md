@@ -6,7 +6,7 @@ get and post using java script with www.dlb.one server
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Virtual logger</title>
+  <title>www.dlb.one</title>
 </head>
 <body>
   <button id="timeShow"> TIME </button>
