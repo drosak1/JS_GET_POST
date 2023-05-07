@@ -29,15 +29,15 @@ var showTime = function () {
       //user -> username registered on dlb.one
       //port -> port number, 3 ports available
 var P1_event = function () {
-  fetch('https://dlb.com.pl/api.php?name=user&port=1');
+  fetch('https://dlb.com.pl/api.php?user_name=user&port=1');
   displayTime.textContent = 'P1 -> '+new Date().toLocaleTimeString();
 };
 var P2_event = function () {
-  fetch('https://dlb.com.pl/api.php?name=user&port=2');
+  fetch('https://dlb.com.pl/api.php?user_name=user&port=2');
   displayTime.textContent = 'P2 -> '+new Date().toLocaleTimeString();
 };
 var P3_event = function () {
-  fetch('https://dlb.com.pl/api.php?name=user&port=3');
+  fetch('https://dlb.com.pl/api.php?user_name=user&port=3');
   displayTime.textContent = 'P3 -> '+new Date().toLocaleTimeString();
 };
 
