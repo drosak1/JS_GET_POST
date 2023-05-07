@@ -1,6 +1,7 @@
 # JS_GET_POST
 get and post using java script with www.dlb.one server
 
+You can use javascript to add virtual buttons to your site or count the hits to your site.
 
 ```
   //user -> username registered on dlb.one
